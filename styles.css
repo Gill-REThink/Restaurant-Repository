@@ -3,7 +3,7 @@
 
 /* Font Definitions */
 @font-face
-	{font-family:"Courier New";
+	{font-family:"Tahoma";
 	panose-1:2 7 3 9 2 2 5 2 4 4;}
 @font-face
 	{font-family:Wingdings;
@@ -26,10 +26,10 @@ h2
 	font-size:18.0pt;
 	font-family:"Cambria";}
 a:link
-	{color:blue;
+	{color:red;
 	text-decoration:underline;}
 a:visited
-	{color:purple;
+	{color:yellow;
 	text-decoration:underline;}
 @page WordSection1
 	{size:8.5in 11.0in;
